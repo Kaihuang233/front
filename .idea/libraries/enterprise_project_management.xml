@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="enterprise-project-management">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/enterprise-project-management.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
